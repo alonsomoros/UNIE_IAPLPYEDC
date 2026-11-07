@@ -1,2 +1,3 @@
-*.env*
-*\.env*
+clase_01/.venv/*
+clase_02/.venv/*
+clase_03/.venv/*
